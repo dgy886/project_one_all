@@ -9,6 +9,7 @@ public class Race implements Runnable{
             if (Thread.currentThread().getName().equals("兔子")&&i%10==0){
                 try {
                     Thread.sleep(1);
+
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
@@ -36,5 +37,6 @@ public class Race implements Runnable{
         Race race=new Race();
         new Thread(race,"兔子").start();
         new Thread(race,"乌龟").start();
+        System.out.println("1111");
     }
 }

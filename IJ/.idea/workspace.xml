@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ea4de0a-aa8f-4246-85ab-52bf0cd2542a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="79" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="IJ" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1eG04vv31VHOgwrVFC0mx9yUX0t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowCoverage.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Bootstrap学习/img" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.fengkuangJava.awt" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IJ\src\Bootstrap学习\img" />
+      <recent name="E:\IJ\src\Bootstrap学习" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="反射Reflect" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IJ\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BoxLayoutTest">
+    <configuration name="BoxLayoutTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fengkuangJava.awt.BoxLayoutTest" />
+      <module name="IJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fengkuangJava.awt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PinBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fengkuangJava.awt.PinBall" />
+      <module name="IJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fengkuangJava.awt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleDraw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fengkuangJava.awt.SimpleDraw" />
+      <module name="IJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fengkuangJava.awt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleEventHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fengkuangJava.awt.SimpleEventHandler" />
+      <module name="IJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fengkuangJava.awt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fengkuangJava.awt.SimpleMenu" />
+      <module name="IJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fengkuangJava.awt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Java Scratch">
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=GB18030" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BoxLayoutTest" />
+      <item itemvalue="Application.PinBall" />
+      <item itemvalue="Application.SimpleDraw" />
+      <item itemvalue="Application.SimpleEventHandler" />
+      <item itemvalue="Application.SimpleMenu" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BoxLayoutTest" />
+        <item itemvalue="Application.PinBall" />
+        <item itemvalue="Application.SimpleDraw" />
+        <item itemvalue="Application.SimpleMenu" />
+        <item itemvalue="Application.SimpleEventHandler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ea4de0a-aa8f-4246-85ab-52bf0cd2542a" name="Default Changelist" comment="" />
+      <created>1593932434685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593932434685</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="74" key="#Notifications" timestamp="1595382254179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="74" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1595382254179" />
+    <state x="183" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595900920693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="183" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1595900920693" />
+    <state x="548" y="121" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1595900898832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="121" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1595900898832" />
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1596161987581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1596161987581" />
+    <state x="553" y="302" width="429" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1595933415679">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="302" width="429" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1595933415679" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595919625174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595919625174" />
+    <state x="463" y="190" key="EnvironmentVariablesDialog" timestamp="1595900906973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="190" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595900906973" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1598244884240">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598244884240" />
+    <state width="1493" height="196" key="GridCell.Tab.0.bottom" timestamp="1598108699253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598108699253" />
+    <state width="1493" height="196" key="GridCell.Tab.0.center" timestamp="1598108699253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598108699253" />
+    <state width="1493" height="196" key="GridCell.Tab.0.left" timestamp="1598108699253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598108699253" />
+    <state width="1493" height="196" key="GridCell.Tab.0.right" timestamp="1598108699253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598108699253" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1595254326587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595254326587" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1595254326587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595254326587" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1595254326587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595254326587" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1595254326587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595254326587" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1595901345053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595901345053" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1598244110072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1598244110072" />
+    <state x="485" y="314" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595486383739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="314" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1595486383739" />
+    <state x="181" y="0" key="new project wizard" timestamp="1598244890496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="181" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1598244890496" />
+    <state x="419" y="266" width="671" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1595295409095">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="419" y="266" width="671" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1595295409095" />
+    <state x="472" y="36" key="refactoring.ChangeSignatureDialog" timestamp="1596161537887">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="472" y="36" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1596161537887" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1595986741953">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1595986741953" />
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596159911068">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596159911068" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IJ$Demoticket.ic" NAME="Demoticket Coverage Results" MODIFIED="1595470410909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.newfile.*</FILTER>
+    </SUITE>
+  </component>
+</project>

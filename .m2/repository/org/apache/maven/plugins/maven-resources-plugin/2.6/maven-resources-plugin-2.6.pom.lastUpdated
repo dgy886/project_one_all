@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 22 20:00:09 CST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1595405384925
+@default-alimaven-http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1595419209710
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-resources-plugin\:pom\:2.6 from/to central (https\://repo.maven.apache.org/maven2)\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
+http\://maven.aliyun.com/nexus/content/repositories/central/.error=Could not transfer artifact org.apache.maven.plugins\:maven-resources-plugin\:pom\:2.6 from/to alimaven (http\://maven.aliyun.com/nexus/content/repositories/central/)\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
